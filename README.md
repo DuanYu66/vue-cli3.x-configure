@@ -1,2 +1,2 @@
 # vue-cli3.x-configure
-基本配置
+vue-cli3  confige基本配置
